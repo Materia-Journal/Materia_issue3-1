@@ -13,9 +13,9 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
-reading_line:
+title: Materia
+subtitle: "Journal of Technical Art History"
+reading_line: Vol. 1, Issue 3
 short_title:
 
 description:
@@ -28,7 +28,7 @@ description:
 
 pub_date: 2022-12-01 # YYYY-MM-DD
 language: en
-pub_type: book # book | journal-periodical | other
+pub_type: journal-periodical # book | journal-periodical | other
 
 identifier:
   isbn:
@@ -56,11 +56,144 @@ contributor:
     url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
     image: contributors/judith-keller.jpg
 
+  - id: lkargere
+    type: primary
+    first_name: Lucretia
+    last_name: Kargère
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: rsole
+    type: primary
+    first_name: Ramon
+    last_name: Solé
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: fcaro
+    type: primary
+    first_name: Federico
+    last_name: Caró
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: jlprada
+    type: primary
+    first_name: José Luis
+    last_name: Prada
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: nguashferre
+    type: primary
+    first_name: Núria
+    last_name: Guasch-Ferré
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: mbcortada
+    type: primary
+    first_name: Marta Badia
+    last_name: Cortada
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: abosselmannruickbie
+    type: primary
+    first_name: Antje
+    last_name: Bosselmann-Ruickbie
+    title:
+    affiliation: Institute of Art History, Justus Liebig University, Gießen, Germany
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: lsabouni
+    type: primary
+    first_name: Leila
+    last_name: Sabouni
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: aharrison
+    type: primary
+    first_name: Ainslie
+    last_name: Harrison
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: kmoffitt
+    type: primary
+    first_name: Kirsten
+    last_name: Moffitt
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: rframe
+    type: primary
+    first_name: Rowan
+    last_name: Frame
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+# Materia Contributors
+
+  - id: 
+    type: primary
+    first_name:
+    last_name:
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+  - id: 
+    type: primary
+    first_name:
+    last_name:
+    title:
+    affiliation:
+    bio:
+    url:
+    image: contributors/.jpg
+
+
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2023 Materia Journal of Technical Art History
 
 license:
   name: Creative Commons Attribution 4.0 International License
