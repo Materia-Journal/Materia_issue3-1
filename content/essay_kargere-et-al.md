@@ -12,7 +12,7 @@ contributor:
   - id: jlprada
   - id: nguasch-ferré
 abstract: |
-  ABSTRACT?
+
 ---
 
 ## Introduction
